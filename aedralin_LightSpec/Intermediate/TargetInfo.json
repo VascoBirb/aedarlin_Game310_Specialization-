@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "aedralin_LightSpec",
+			"Path": "..\\Source\\aedralin_LightSpec.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "aedralin_LightSpecEditor",
+			"Path": "..\\Source\\aedralin_LightSpecEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

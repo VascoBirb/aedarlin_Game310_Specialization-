@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alexa/OneDrive/Documents/Unreal Projects/aedralin_LightSpec/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/alexa/OneDrive/Documents/Unreal Projects/aedralin_LightSpec/Content/aedralin_Lighting.umap",
+				"C:/Users/alexa/OneDrive/Documents/Unreal Projects/aedralin_LightSpec/Content/_GENERATED/alexa/Box_7AC28F99.uasset",
+				"C:/Users/alexa/OneDrive/Documents/Unreal Projects/aedralin_LightSpec/Content/_GENERATED/alexa/Sphere_B0A73E64.uasset",
+				"C:/Users/alexa/OneDrive/Documents/Unreal Projects/aedralin_LightSpec/Content/Materials/Black.uasset",
+				"C:/Users/alexa/OneDrive/Documents/Unreal Projects/aedralin_LightSpec/Content/Materials/White.uasset",
+				"C:/Users/alexa/OneDrive/Documents/Unreal Projects/aedralin_LightSpec/Content/Materials/Grey.uasset",
+				"C:/Users/alexa/OneDrive/Documents/Unreal Projects/aedralin_LightSpec/Content/Materials/Chrome.uasset",
+				"C:/Users/alexa/OneDrive/Documents/Unreal Projects/aedralin_LightSpec/Content/Materials/emissive_01.uasset",
+				"C:/Users/alexa/OneDrive/Documents/Unreal Projects/aedralin_LightSpec/Content/_GENERATED/alexa/Box_1626294E.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\aedralin_LightSpec.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\aedralin_LightSpec.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\aedralin_LightSpecEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\aedralin_LightSpec">
+      <UniqueIdentifier>{91A2AD4B-E03D-3177-87B6-9AF7EBF4166B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\aedralin_LightSpec\aedralin_LightSpec.Build.cs">
+      <Filter>Source\aedralin_LightSpec</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\aedralin_LightSpec\aedralin_LightSpec.cpp">
+      <Filter>Source\aedralin_LightSpec</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\aedralin_LightSpec\aedralin_LightSpec.h">
+      <Filter>Source\aedralin_LightSpec</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\aedralin_LightSpec\aedralin_LightSpecCharacter.cpp">
+      <Filter>Source\aedralin_LightSpec</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\aedralin_LightSpec\aedralin_LightSpecCharacter.h">
+      <Filter>Source\aedralin_LightSpec</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\aedralin_LightSpec\aedralin_LightSpecGameMode.cpp">
+      <Filter>Source\aedralin_LightSpec</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\aedralin_LightSpec\aedralin_LightSpecGameMode.h">
+      <Filter>Source\aedralin_LightSpec</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
